@@ -1,1 +1,1 @@
-# spotify-app
+# spotify-weighted-playlists
