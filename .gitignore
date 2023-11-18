@@ -1,0 +1,5 @@
+__pycache__
+spotify-env
+.cache
+backlog
+cred.py

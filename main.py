@@ -19,5 +19,7 @@ all_uris = input.all_tracks(input_playlist)
 
 
 # Outputs the playlist
-output.replace_playlist(output_playlist, uri_list)
+# output.replace_playlist(output_playlist, uri_list)
 # output.replace_playlist(output_playlist, all_uris)
+
+print(input.tracks_by_artist(input_playlist, '5 Seconds of Summer'))

@@ -1,5 +1,4 @@
 # Imports random
-from hashlib import new
 import random
 
 
