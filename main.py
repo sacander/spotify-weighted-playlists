@@ -8,8 +8,8 @@ import logic
 
 
 # Saves playlists for later, raw links work fine
-input_playlist = 'https://open.spotify.com/playlist/0EnEDDhDMRT4IQkzFKu0Kj?si=be55e15ac8974017'
-output_playlist  = 'https://open.spotify.com/playlist/5s10yi3jdVUozoQRPEfJSE?si=f992e8d8c704420b'
+input_playlist = ''
+output_playlist  = ''
 
 
 # Gets required input and passes it through logic function
